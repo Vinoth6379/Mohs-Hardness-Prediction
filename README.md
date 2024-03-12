@@ -21,7 +21,14 @@ URL:https://www.kaggle.com/datasets/firmanhasibuan1/mohs-hardness-dataset/data
 
  • Model Evaluation:
     » Once trained, the model's performance is evaluated using the testing dataset. Common evaluation metrics for regression tasks include mean squared error (MSE), mean absolute error (MAE), and R-squared score. These metrics provide insights into how well the model generalizes to unseen data
-    
+
+
+# Demo Video
+
+
+
+
+https://github.com/Vinoth6379/Mohs-Hardness-Prediction/assets/142651419/8d8887f8-6daf-47f4-b25b-8ac5781fc85c
 
 
 
